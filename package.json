@@ -1,5 +1,5 @@
 {
-    "name": "daily-github-contribution-count",
+    "name": "github-contribution-count-today",
     "version": "0.0.1",
     "description": "Retrieves the number of public contributions a user have on Github today",
     "main": "index.js",
