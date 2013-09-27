@@ -1,0 +1,16 @@
+{
+    "name": "daily-github-contribution-count",
+    "version": "0.0.1",
+    "description": "Retrieves the number of public contributions a user have on Github today",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Espen Hovlandsdal",
+    "license": "BSD",
+    "dependencies": {
+        "express": "~3.4.0",
+        "node-cache": "~0.3.2",
+        "request": "~2.27.0"
+    }
+}
